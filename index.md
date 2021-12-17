@@ -5,7 +5,7 @@
 Max Patch Download Instructions:
 
 Download the Max Patch and Supporting Files:
-
+[Max Patch](./hrir_patch.maxpat)
 
 Download the HRIRs in wav format:
 
