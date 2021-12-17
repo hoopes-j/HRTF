@@ -14,4 +14,4 @@ Move the zip archive into the same directory as the MAX Patch and suppport files
 
 The max patch should open in presentation mode and work as expected. 
 
-Use the two sliders two alter the azimuth and elevation of the simulated sound source, or cycle through the values with the buttons.
+Use the two sliders two alter the azimuth and elevation of the simulated sound source, or trigger the buttons to automatically cycle through these values.
