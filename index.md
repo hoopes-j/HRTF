@@ -5,19 +5,15 @@
 Max Patch Download Instructions:
 
 Download the Max Patch and Supporting Files:
-[Max Patch](./hrir_patch.maxpat)
+[Max Patch](./HRTF_Max_Patch.zip)
 
-Download the HRIRs in wav format: [Impulse Responses](./impulses.zip)
-
-
-Move the zip archive into the same directory as the MAX Patch and suppport files, then Unzip the archive. It's important than the archive is unzipped while already in this folder, to avoid needing to manually copy 1250 files.
-
+Unzip the archive, and open the hrir_patch.maxpat file to open the max patch.
 The max patch should open in presentation mode and work as expected. 
 
 Use the two sliders two alter the azimuth and elevation of the simulated sound source, or trigger the buttons to automatically cycle through these values.
 
 In case you can't get it working, here are two recordings of the output of the patch.
 
-Cycling through azimuth values, at elevation = X:
+Cycling through azimuth values, at elevation = 0:
 
 Cycling through elevation values, at azimuth = 0:
