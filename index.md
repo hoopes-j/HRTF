@@ -15,5 +15,21 @@ Use the two sliders to alter the azimuth and elevation of the simulated sound so
 In case you can't get it working, here are two recordings of the output of the patch.
 
 Cycling through azimuth values, at elevation = 0:
+<figure>
+<audio
+    controls
+    src="azimuths.wav">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>
+</figure>
 
-Cycling through elevation values, at azimuth = 0:
+Cycling through elevation values, at azimuth = 100:
+<figure>
+<audio
+    controls
+    src="elevations.wav">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>
+</figure>
