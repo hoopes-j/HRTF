@@ -1,5 +1,5 @@
 ## HRTF Implementation in MAX/Msp
-### Final Project for MUST 2350, Acoustics + Psychoacoustics
+### Final Project for MUSC 2350, Acoustics + Psychoacoustics
 
 
 Max Patch Download Instructions:
