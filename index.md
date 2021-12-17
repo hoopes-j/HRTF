@@ -7,7 +7,7 @@ Max Patch Download Instructions:
 Download the Max Patch and Supporting Files:
 [Max Patch](./hrir_patch.maxpat)
 
-Download the HRIRs in wav format: [Impulse Responses](./hrir_patch.maxpat)
+Download the HRIRs in wav format: [Impulse Responses](./impulses.zip)
 
 
 Move the zip archive into the same directory as the MAX Patch and suppport files, then Unzip the archive. It's important than the archive is unzipped while already in this folder, to avoid needing to manually copy 1250 files.
